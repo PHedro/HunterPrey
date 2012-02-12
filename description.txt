@@ -1,0 +1,25 @@
+1.1Presa-Predador.
+Duas espécies convivem em um ambiente isolado, como uma floresta
+temperada: as presas são animais herbívoros, para os quais há fartura
+de alimento e espaço na floresta. Nessas condições, a tendência é de
+que a taxa de crescimento da população de presas seja proporcional à
+população. Porém, a taxa de crescimento contém um outro termo, que
+resulta da presença da outra espécie, os predadores, carnívoros cuja
+presença causa redução da população de presas, de forma proporcional
+a ambas as populações. Por outro lado, analisando a população de
+predadores, havendo fartura de  presas a taxa de crescimento
+populacional de predadores é positiva e proporcional a ambas as
+populações; por si sós, predadores sofrem com inanição e competem
+entre si, de modo que há uma diminuição da população se esta
+população for deixada sozinha na floresta.
+Uma forma de exibir a evolução do problema é colocar, em cada eixo,
+o valor momentâneo de exemplares de cada população.
+Para ter um panorama da evolução do problema, há que se acompanhar
+alguns ciclos (considere aqui pelo menos 5 ciclos completos) em
+que a população de uma espécie aumenta depois de vir diminuindo,
+por exemplo.
+A condição de sazonalidade deve ser inserida para representar,
+por exemplo, a diminuição de vegetação decorrente das estações do
+ano. Ou seja, o coeficiente que está relacionado com o aumento
+populacional das presas flutua até metade de seu valor, valendo no
+máximo o inicial (“no verão”) e, no mínimo, metade (“no inverno”).
